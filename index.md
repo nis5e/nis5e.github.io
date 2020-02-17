@@ -20,10 +20,10 @@
 				<br>
 				<br>
 				Find me on:</p> 
-					<p align="center"><a href="https://Twitch.tv/Nisseontwitch">Twitch</a> - 
-					<a href="https://discord.gg">Discord</a> -
-					<a href="https://Instagram.com/Nisseontwitch">Instagram</a> - 
-					<a href="https://Twitter.com/Nisseontwitch">Twitter</a> - 
+					<p align="center"><a href="https://Twitch.tv/nis5e">Twitch</a> - 
+					<a href="https://discord.gg/p5sCHmy">Discord</a> -
+					<a href="https://Instagram.com/nis5e">Instagram</a> - 
+					<a href="https://Twitter.com/nis5e">Twitter</a> - 
 					<a href="https://Youtube.com/c/NisseYT">YouTube</a>
 				 </p>
 	</body>
