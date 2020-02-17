@@ -19,7 +19,7 @@
 				<p align="center">A safe haven for all Nissites <br>
 				This shall be our stronghold. </p>
 				
-				<h2 align="center">gateway to Nisse's:</h2> 
+				<p align="center">gateway to Nisse's:</p> 
 					<h3 align="center"><a href="https://Twitch.tv/Nisseontwitch">Twitch</a> - 
 					<a href="https://discord.gg">Discord</a> -
 					<a href="https://Instagram.com/Nisseontwitch">Instagram</a> - 
