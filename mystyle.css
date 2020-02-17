@@ -1,0 +1,59 @@
+body {
+	background-color: #ff1a75;
+}
+
+body {
+  background-image: linear-gradient(to bottom right, #b3003e, #660024);
+}
+
+h1 {
+	color: #ffffff;
+}
+
+h2 {
+	color: #ffffff;
+}
+
+h3 {
+	color: #ffffff;
+}
+
+h4 {
+	color: #ffffff;
+}
+
+p {
+	color: #ffffff;
+}
+
+ol {
+	color: #ffffff;
+}
+
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  float: left;
+}
+li a {
+display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover:not(.active) {
+  background-color: #111;
+}
+.active {
+  background-color: #660023;
+}
