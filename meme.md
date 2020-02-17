@@ -6,7 +6,7 @@
 	</head>
 		<body>
 		<ul>
-			<li><a href="mainpage.html">Home</a></li>
+			<li><a href="index.html">Home</a></li>
 			<li><a href="content.html">Content</a></li>
 			<li><a class="active" href="meme.html">Meme</a></li>
 			<li><a href="video.html">Video</a></li>
