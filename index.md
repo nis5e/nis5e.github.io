@@ -17,12 +17,14 @@
 				<p align="center">Welcome to Nisse's site!<br>
 				Here you can find stories, cool things, <br>
 				and links to all of my platforms.<br>
+				<br>
+				<br>
 				Find me on:</p> 
-					<h4 align="center"><a href="https://Twitch.tv/Nisseontwitch">Twitch</a> - 
+					<p align="center"><a href="https://Twitch.tv/Nisseontwitch">Twitch</a> - 
 					<a href="https://discord.gg">Discord</a> -
 					<a href="https://Instagram.com/Nisseontwitch">Instagram</a> - 
 					<a href="https://Twitter.com/Nisseontwitch">Twitter</a> - 
 					<a href="https://Youtube.com/c/NisseYT">YouTube</a>
-				 </h4>
+				 </p>
 	</body>
 </html>
