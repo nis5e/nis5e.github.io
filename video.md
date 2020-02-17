@@ -13,7 +13,8 @@
 			<li><a href="stories.html">Stories</a></li>
 			</ul>
 		
-				<align="center" iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VVKlw5fq83M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+				//<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VVKlw5fq83M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>//
+				<video class="center" src="https://www.youtube-nocookie.com/embed/VVKlw5fq83M" width="600">⁪</video>
 				</iframe>
 	
 				<p align="center"><i>True OG's will watch it, all of it, with headphones on.</i></p>
