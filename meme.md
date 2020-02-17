@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <html>	
 	<head>
 		<link rel="stylesheet" type="text/css" href="mystyle.css">
@@ -13,7 +13,7 @@
 			<li><a href="stories.html">Stories</a></li>
 			</ul>
 			
-			<img src="grumeme.png"
+			<img src="grumeme.jpg"
 			alt="An image of Anton Chigurgh taking you out."
 			style="width:350px;height:350px;">
 	</body>
