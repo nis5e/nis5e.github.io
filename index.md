@@ -15,9 +15,9 @@
 			<li><a href="stories.html">Stories</a></li>
 			</ul>
 				<p align="center">Welcome to Nisse's site!<br>
-				A safe haven for all Nissites <br>
-				This shall be our stronghold. <br>
-				Find Nisse on:</p> 
+				Here you can find stories, cool things, <br>
+				and links to all of my platforms.<br>
+				Find me on:</p> 
 					<h4 align="center"><a href="https://Twitch.tv/Nisseontwitch">Twitch</a> - 
 					<a href="https://discord.gg">Discord</a> -
 					<a href="https://Instagram.com/Nisseontwitch">Instagram</a> - 
