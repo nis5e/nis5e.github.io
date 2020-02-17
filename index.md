@@ -14,12 +14,10 @@
 			<li><a href="video.html">Video</a></li>
 			<li><a href="stories.html">Stories</a></li>
 			</ul>
-				<p align="center">welcome to Nisse's site!</p>
-		
-				<p align="center">A safe haven for all Nissites <br>
-				This shall be our stronghold. </p>
-				
-				<p align="center">gateway to Nisse's:</p> 
+				<p align="center">Welcome to Nisse's site!<br>
+				A safe haven for all Nissites <br>
+				This shall be our stronghold. <br>
+				Find Nisse on:</p> 
 					<h4 align="center"><a href="https://Twitch.tv/Nisseontwitch">Twitch</a> - 
 					<a href="https://discord.gg">Discord</a> -
 					<a href="https://Instagram.com/Nisseontwitch">Instagram</a> - 
