@@ -20,13 +20,11 @@
 				This shall be our stronghold. </p>
 				
 				<p align="center">gateway to Nisse's:</p> 
-					<h3 align="center"><a href="https://Twitch.tv/Nisseontwitch">Twitch</a> - 
+					<h4 align="center"><a href="https://Twitch.tv/Nisseontwitch">Twitch</a> - 
 					<a href="https://discord.gg">Discord</a> -
 					<a href="https://Instagram.com/Nisseontwitch">Instagram</a> - 
 					<a href="https://Twitter.com/Nisseontwitch">Twitter</a> - 
 					<a href="https://Youtube.com/c/NisseYT">YouTube</a>
-				 </h3>
-	
-				<p align="center"><i>Copyright Nisse.</i></p>
+				 </h4>
 	</body>
 </html>
