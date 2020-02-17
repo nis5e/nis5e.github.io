@@ -14,7 +14,7 @@
 			<li><a href="video.html">Video</a></li>
 			<li><a href="stories.html">Stories</a></li>
 			</ul>
-				<h1 align="center">welcome to Nisse's site!</h1>
+				<p align="center">welcome to Nisse's site!</p>
 		
 				<p align="center">A safe haven for all Nissites <br>
 				This shall be our stronghold. </p>
@@ -27,6 +27,6 @@
 					<a href="https://Youtube.com/c/NisseYT">YouTube</a>
 				 </h3>
 	
-				<p align="center"><i> Want to contact me? Fastest way is Discord!</i></p>
+				<p align="center"><i>Copyright Nisse.</i></p>
 	</body>
 </html>
