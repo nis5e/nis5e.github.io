@@ -17,6 +17,5 @@
 			<p>gfstory: https://pastebin.com/CLQJwasK</p>
 			<p>Paradise: https://pastebin.com/uPsHGbht</p>
 			<p>(Will post Sunkissed here if i write it out)</p>
-			</ul>
 	</body>
 </html>
