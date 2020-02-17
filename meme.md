@@ -13,7 +13,7 @@
 			<li><a href="stories.html">Stories</a></li>
 			</ul>
 			
-			<img src="grumeme.jpg"
+			<img align="center" src="grumeme.jpg"
 			alt="An image of Anton Chigurgh taking you out."
 			style="width:350px;height:350px;">
 	</body>
