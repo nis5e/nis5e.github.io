@@ -39,7 +39,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #cccccc;
 }
 li {
   float: left;
@@ -52,8 +52,8 @@ display: block;
   text-decoration: none;
 }
 li a:hover:not(.active) {
-  background-color: #111;
+  background-color: #bfbfbf;
 }
 .active {
-  background-color: #660023;
+  background-color: #d9d9d9;
 }
