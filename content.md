@@ -1,9 +1,11 @@
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>Nisse's</title>
 		<link rel="stylesheet" type="text/css" href="mystyle.css">
 
 	</head>
+	
 	<body>
 		<ul>
 		<li><a href="index.html">Home</a></li>
