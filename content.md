@@ -2,7 +2,13 @@
 	<head>
 		<title>Nisse's</title>
 		<link rel="stylesheet" type="text/css" href="mystyle.css">
-
+		
+		<link rel="icon" 
+         	 type="image/png" 
+          	href="https://avatars1.githubusercontent.com/u/17131426?s=460&v=4">
+		
+		<title>Schedule</title>
+		
 	</head>
 	
 	<body>
