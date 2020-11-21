@@ -13,9 +13,8 @@
 			<li><a class="active" href="stories.html">Stories</a></li>
 		</ul>
 			
-			<p>The following page is to contain short stories, such as gfstory, Paradise, and Sunkissed.</p>
-			<p>gfstory: https://pastebin.com/CLQJwasK</p>
-			<p>Paradise: https://pastebin.com/uPsHGbht</p>
-			<p>(Will post Sunkissed here if i write it out)</p>
+			<p>Some sappy creative writing stories here.</p>
+			<a href="https://pastebin.com/CLQJwasK" target="_blank" rel="noopener noreferrer">'Gfstory'</a>
+			<a href="https://pastebin.com/uPsHGbht" target="_blank" rel="noopener noreferrer">'Paradise'</a>
 	</body>
 </html>
