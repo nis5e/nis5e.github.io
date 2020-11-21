@@ -14,7 +14,7 @@
 		<li><a href="stories.html">Stories</a></li>
 		</ul>
 		
-		<p align="center"><i>Potential page content: Feed for new content, general updates, short blogposts, etc.</i>
+		<p align="center"><i>Yeah i make stuff, you can find it on the links on the mainpage lmaooo</i>
 		</p>
 		
 	</body>
