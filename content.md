@@ -1,8 +1,8 @@
 <html>
-<html>
 	<head>
+		<title>Nisse's</title>
 		<link rel="stylesheet" type="text/css" href="mystyle.css">
-		<title>Nisse Content</title>
+
 	</head>
 	<body>
 		<ul>
