@@ -14,7 +14,7 @@
 		</ul>
 			
 			<p>Some sappy creative writing stories here.</p>
-			<a href="https://pastebin.com/CLQJwasK" target="_blank" rel="noopener noreferrer">'Gfstory'</a>
+			<a href="https://pastebin.com/CLQJwasK" target="_blank" rel="noopener noreferrer">'Gfstory'</a> <br>
 			<a href="https://pastebin.com/uPsHGbht" target="_blank" rel="noopener noreferrer">'Paradise'</a>
 	</body>
 </html>
