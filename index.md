@@ -18,11 +18,11 @@
 				<p align="center">Hey.<br>
 
 				Links to:</p> 
-					<p align="center"><a href="https://Twitch.tv/nis5e">Stream</a> - 
-					<a href="https://Youtube.com/c/NisseYT">Videos</a> - 
-					<a href="https://discord.gg/p5sCHmy">Voip server</a> -
-					<a href="https://Instagram.com/nis5e">Photography website</a> - 
-					<a href="https://Twitter.com/nis5e">Bird website</a>
+					<p align="center"><a href="https://Twitch.tv/nis5e" target="_blank" rel="noopener noreferrer">Stream</a> - 
+					<a href="https://Youtube.com/c/NisseYT" target="_blank" rel="noopener noreferrer">Videos</a> - 
+					<a href="https://discord.gg/p5sCHmy" target="_blank" rel="noopener noreferrer">Voip server</a> -
+					<a href="https://Instagram.com/nis5e" target="_blank" rel="noopener noreferrer">Photography website</a> - 
+					<a href="https://Twitter.com/nis5e" target="_blank" rel="noopener noreferrer">Bird website</a>
 				 </p>
 	</body>
 </html>
