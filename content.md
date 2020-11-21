@@ -1,15 +1,18 @@
-<html>
+<!DOCTYPE html>
+<html lang="en-US">
+	
 	<head>
-		<title>Nisse's</title>
-		<link rel="stylesheet" type="text/css" href="mystyle.css">
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="index.css"/>
 		
-		<link rel="icon" 
-         	 type="image/png" 
-          	href="https://avatars1.githubusercontent.com/u/17131426?s=460&v=4">
-		
-		<title>Schedule</title>
-		
+  	  <link rel="icon" 
+        	  type="image/png" 
+        	  href="https://avatars1.githubusercontent.com/u/17131426?s=460&v=4">
+		  
+	<title>Schedule</title>
 	</head>
+	
+	
 	
 	<body>
 		<ul>
